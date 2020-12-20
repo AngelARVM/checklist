@@ -1,0 +1,28 @@
+* {
+    margin:0;
+    padding: 0;
+}
+
+body{
+    margin-bottom: 0;
+    background-color: white;
+}
+
+
+.container{
+    margin-top: 15px;
+    border-radius: 5px;
+    background-color: palevioletred;
+    max-width: 480px;
+    border: 2px solid rgba(0, 0, 0, 0.137);
+}
+
+.container form{
+    margin-bottom: 30px;
+}
+
+.container h1{
+    color:white;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
